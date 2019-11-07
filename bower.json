@@ -1,0 +1,17 @@
+{
+  "name": "laravel_quicktasks",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Duy Tu <duytuhubt@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/DinhDuyTu/laravel_quicktasks",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
